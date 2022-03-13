@@ -9,7 +9,7 @@ Panconqueso
 
 - 🌱 I’m currently learning **Html5, Python, JavaScript, Css, C#**
 
-- 📫 How to reach me **Maxcortesv@gmail.com, Maxcortesc@uc.cñ**
+- 📫 How to reach me **Maxcortesv@gmail.com, Maxcortesc@uc.cl**
 
 - ⚡ Fun fact **Peo**
 
