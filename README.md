@@ -1,17 +1,23 @@
 # Panconqueso
-Panconqueso
-<h1 align="center">Hi 👋, I'm Maximiliano Cortés.</h1>
-<h3 align="center">I'm a Chilean college student todo fresh.</h3>
+<h1 align="center">Hi 👋, I'm Maximiliano Cortés</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+college+student+in+love+with+computer+science...&hearts;++;Self-taught+Person;Active+Learner/Researcher;Learn+new+stuff+is+my+passion<3"></a>
+</p>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panconquesocl&label=Profile%20views&color=0e75b6&style=flat" alt="panconquesocl" /> </p>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panconquesocl" alt="panconquesocl" /></a> </p>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🌱 I’m currently learning **Html5, Python, JavaScript, Css, C#**
+<br>
+- Trying to be the best version of Myself.
+- Currently learning Mobile App Development and Web Development. 
+
+<br><br>
 
 - 📫 How to reach me **Maxcortesv@gmail.com, Maxcortesv@uc.cl**
 
-- ⚡ Fun fact **Peo**
+- ⚡ Fun fact **I hate bananas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
