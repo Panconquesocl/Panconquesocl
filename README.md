@@ -3,10 +3,8 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+CompSci+student++;Self-taught+Person;Active+Learner/Researcher;"/></a>
 </p>
-                                                                
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+**About me**
 
 - 😁 Trying to be the best version of Myself
 - 🔥 Currently learning Mobile App Development and Web Development
