@@ -4,7 +4,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+CompSci+student++;Self-taught+Person;Active+Learner/Researcher;"/></a>
 </p>
 
-**About me**
+<h3 align="left">About Me</h3>
 
 - 😁 Trying to be the best version of Myself
 - 🔥 Currently learning Mobile App Development and Web Development
