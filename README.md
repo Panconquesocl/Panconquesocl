@@ -1,8 +1,9 @@
 # Panconqueso
 <h1 align="center">Hi 👋, I'm Maximiliano Cortés</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+CompSci+student++;Self-taught+Person;Active+Learner/Researcher;></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+CompSci+student++;Self-taught+Person;Active+Learner/Researcher;"/></a>
 </p>
+                                                                
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F782DB&width=435&lines=About+Me" alt="Typing SVG" /></a>
 </p>
