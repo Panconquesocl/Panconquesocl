@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ Sobre mí
 
-- 🔭 Actualmente estudiando Ciencias de la Computación en Chile 🇨🇱
+- 🔭 Actualmente estudiando Ciencias de la Computación en UC Chile 🇨🇱
 - 🧠 Aprendiendo sobre **Computer Vision**, **IA** y **Desarrollo Backend**
 - 🧩 Me encantan los desafíos y resolver problemas complejos
 - 🐶 Fan de los animales y proyectos tech que tengan impacto positivo
