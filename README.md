@@ -7,9 +7,9 @@
 <h3 align="left">About Me</h3>
 
 - 😁 Trying to be the best version of Myself
-- 🔥 Currently learning Mobile App Development and Web Development
+- 🔥 Currently learning: Computer Vision
 - 📫 How to reach me: **Maxcortesv@gmail.com, Maxcortesv@uc.cl**
-- ⚡ Something about me: **I am fascinated by animals**
+- ⚡ Something about me: **I love animals**
 
 
 
