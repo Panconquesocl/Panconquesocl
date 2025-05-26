@@ -21,7 +21,7 @@
 
 [![Instagram](https://img.shields.io/badge/@panconquesocl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/panconquesocl)
 [![Mail](https://img.shields.io/badge/maxcortesv@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxcortesv@uc.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maximiliano-cortés-213126228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-cortés-213126228)
 
 ---
 
