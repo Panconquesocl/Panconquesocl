@@ -1,48 +1,81 @@
-# Panconqueso
-<h1 align="center">Hi 👋, I'm Maximiliano Cortés</h1>
+<h1 align="center">Hola 👋, soy Maximiliano Cortés</h1>
+<h3 align="center">Estudiante de Ciencias de la Computación, desarrollador curioso y amante del aprendizaje continuo</h3>
+
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Chilean+CompSci+student++;Self-taught+Person;Active+Learner/Researcher;"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+conocimiento.;Actualmente+aprendiendo+Computer+Vision+con+Python.;Amante+de+los+animales+%F0%9F%90%B6+y+la+investigaci%C3%B3n+autodidacta.;Construyendo+proyectos+que+me+hagan+crecer.;Siempre+listo+para+colaborar+e+innovar.">
 </p>
 
-<h3 align="left">About Me</h3>
+---
 
-- 😁 Trying to be the best version of Myself
-- 🔥 Currently learning: Computer Vision
-- 📫 How to reach me: **Maxcortesv@gmail.com, Maxcortesv@uc.cl**
-- ⚡ Something about me: **I love animals**
+### 🙋‍♂️ Sobre mí
 
+- 🔭 Actualmente estudiando Ciencias de la Computación en Chile 🇨🇱
+- 🧠 Aprendiendo sobre **Computer Vision**, **IA** y **Desarrollo Backend**
+- 🧩 Me encantan los desafíos y resolver problemas complejos
+- 🐶 Fan de los animales y proyectos tech que tengan impacto positivo
+- ✨ Siempre tratando de convertirme en una mejor versión de mí mismo
 
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Puedes encontrarme en:
+
+[![Instagram](https://img.shields.io/badge/@panconquesocl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/panconquesocl)
+[![Mail](https://img.shields.io/badge/maxcortesv@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxcortesv@uc.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin-aquí) <!-- Cámbialo si tienes LinkedIn -->
+
+---
+
+### 💻 Tecnologías y herramientas con las que he trabajado
+
 <p align="left">
-<a href="https://instagram.com/panconquesocl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panconquesoo.cl" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" alt="Rails"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" width="40" height="40"/>
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  </a>
-  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panconquesocl&show_icons=true&locale=en&layout=compact" alt="panconquesocl" /></p>
+### 📈 Estadísticas de GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panconquesocl&show_icons=true&locale=en" alt="panconquesocl" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panconquesocl&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panconquesocl&layout=compact&theme=radical" alt="langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panconquesocl&theme=radical" alt="streaks"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panconquesocl&" alt="panconquesocl" /></p>
+---
+
+### 📂 Proyectos destacados
+
+- Privado por ahora 😉🤫
+
+---
+
+### 🧭 Próximos pasos
+
+- 🔬 Empezar a publicar artículos técnicos y sobre proyectos en los que estoy trabajando
+- 🤝 Contribuir a proyectos open source
+- 📚 Aprender más sobre frameworks de IA como TensorFlow y PyTorch
+
+---
+
+### ✨ Frase favorita
+
+> "La educación es el arma más poderosa para cambiar el mundo" - Nelson Mandela
+
+---
+
+### 🙌 Gracias por visitar mi perfil
+
+Siéntete libre de explorar mis proyectos o contactarme para colaborar 🚀  
+
+---
