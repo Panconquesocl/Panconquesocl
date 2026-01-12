@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Maximiliano Cortés</h1>
-<h3 align="center">Estudiante de Ciencias de la Computación, desarrollador curioso y amante del aprendizaje continuo</h3>
+<h3 align="center">Estudiante de Ciencias de la Computación, desarrollador curioso, amante del aprendizaje continuo y el emprendimiento</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+conocimiento.;Actualmente+aprendiendo+Computer+Vision+con+Python.;Amante+de+los+animales+%F0%9F%90%B6+y+la+investigaci%C3%B3n+autodidacta.;Construyendo+proyectos+que+me+hagan+crecer.;Siempre+listo+para+colaborar+e+innovar.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+emprendimiento;Actualmente+aprendiendo+Computer+Vision+con+Python.;Amante+de+los+animales+%F0%9F%90%B6+y+la+investigaci%C3%B3n+autodidacta.;Construyendo+proyectos+que+me+hagan+crecer.;Siempre+listo+para+colaborar+e+innovar.">
 </p>
 
 ---
